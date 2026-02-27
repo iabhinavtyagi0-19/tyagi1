@@ -1,0 +1,7 @@
+.list {
+  display: flex;
+  justifycontent: center;
+  alignitems: center;
+  margintop: 30px;
+  background-color: aquamarine;
+}
